@@ -1,7 +1,8 @@
-transfer*
 
 Analysis.asv
 Transferfunction12A_protected.prj
+transferfunction12*
+sl*
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
